@@ -1,0 +1,103 @@
+body{
+  background-color:#26547c;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ h1{
+    text-shadow: 3px 3px #9cacfc;
+    font-size:55px;
+    color: white;
+}
+
+h2{
+  color:#e21281;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+
+.firstP{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #e21281;
+}
+
+.div3{
+  float:right;
+}
+
+h4{
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   color:#06D6A0;
+}
+.column1{
+  float: left;
+  width:33.33%;
+}
+ .list1{
+   color:#06D6A0;
+   list-style: none;
+ }
+ .sportL{
+   list-style: none;
+ }
+
+.classesL{
+  list-style:none;
+}
+
+
+
+
+
+h5{
+  color:#FFD166;
+  font-size: 15px;
+}
+
+li:before{
+  content: "\2605"
+}
+.list2{
+  list-style: none;
+  color:#FFD166;
+}
+
+h6{
+  color:#cf76f9;
+  font-size: 20px;
+}
+
+.secondP{
+  color: #cf76f9;
+  font-size: 17px;
+}
+
+.thirdP{
+  font-size:20px;
+  color:#d4f7f6;
+}
+
+h7{
+  color:#fff351;
+  font-size:23px;
+}
+table{
+  color:#fff351
+}
+
+#div2{
+    width: 200px;
+    border: 20px;
+    border-style:inset ;
+    border-color: #09efb2;
+    padding: 20px;
+    padding-bottom: color:blue;
+    padding-top: color: blue;
+    margin: 20px;
+}
+img{
+  border-color: #f7bf07;
+  border-style: groove;
+  width:250px;
+  length:250px;
+  margin-bottom: 30px;
+}
